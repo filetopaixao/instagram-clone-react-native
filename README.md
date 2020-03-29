@@ -7,7 +7,7 @@ You just need to run the following commands:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/filetopaixao/calculator-react-native.git
+$ git clone https://github.com/filetopaixao/instagram-clone-react-native.git
 
 # Install dependencies
 $ npm install
